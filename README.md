@@ -10,7 +10,7 @@ When adding `m_roleplay` to `Inspircd 2.x`, v2.0.20 as of this writing, you will
 
 If an error such as `error: WARNING: could not find header m_cap.h for modules/m_roleplay/m_roleplay.cpp` pops up during compile, either move the files in `m_roleplay` out of `m_roleplay` into `src/modules` for Inspircd to resolve this error.
 
-Or, y'know, `cp m_cap.h m_roleplay/` in your shell to resolve the issue. But the method of moving everything out of `m_roleplay` into `src/modules` is the recommended method.
+Or, y'know, `cp m_cap.h m_roleplay/` in your shell whilst inside `src/modules` to resolve the issue. But the method of moving everything out of `m_roleplay` into `src/modules` is the recommended method.
 
 ### LICENSE
 
