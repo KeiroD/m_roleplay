@@ -14,7 +14,7 @@ Or, y'know, `cp m_cap.h m_roleplay/` in your shell whilst inside `src/modules` t
 
 ### LICENSE
 
-No freaking clue. No license came with this when I got it from Namedguf over on irc.inspircd.org. I can't remember who actually told me that he had the Inspircd port.
+No freaking clue. No license came with this when I got it from `Namegduf` over on `irc.inspircd.org`. I can't remember who actually told me that he had the Inspircd port.
 
 I suppose you should probably assume it's GPL. Probably GPLv2, come to think of it.
 
