@@ -6,7 +6,7 @@ As per `m_roleplay.cpp`, it "Provides NPC, NPCA, FSAY, FACTION, and SCENE comman
 
 ## Installation
 
-When adding `m_roleplay` to `Inspircd 2.x`, v2.0.20 as of this writing, you will need to place this in `src/modules` *prior* to compiling to add support for roleplay commands to your ircd.
+When adding `m_roleplay` to `Inspircd 2.x`, v2.0.23 as of this writing, you will need to place this in `src/modules` *prior* to compiling to add support for roleplay commands to your ircd.
 
 If an error such as `error: WARNING: could not find header m_cap.h for modules/m_roleplay/m_roleplay.cpp` or something very much like it regarding `m_cap.h` pops up during compile, either move the files in `m_roleplay` out of `m_roleplay` into `include/modules` for Inspircd to resolve this error...
 
